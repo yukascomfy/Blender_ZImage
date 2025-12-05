@@ -1,5 +1,4 @@
-# Blender_ZImage
-Experimental Blender addon connecting to ComfyUI for native texture previews. Features Zimage and ControlNet integration to generate consistent, multi-angle results with custom color palettes
+
 # Blender-ComfyUI Texture Bridge (Experimental)
 
 ![Status](https://img.shields.io/badge/Status-Work_in_Progress-orange) ![License](https://img.shields.io/badge/License-GPLv3-blue) ![Blender](https://img.shields.io/badge/Blender-4.0%2B-green)
