@@ -34,7 +34,7 @@ Testing different colorways and angles to ensure the ControlNet maintains the sh
 
 ### Detail Retention
 Close-up test to verify texture quality and seam handling.
-![Close up details](imagesBlenderZimage4.jpg)
+![Close up details](images/BlenderZimage4.jpg)
 
 ## 🛠️ Requirements (Planned)
 * Blender 4.x
