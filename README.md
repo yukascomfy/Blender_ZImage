@@ -24,17 +24,17 @@ Here is a look at the current UI and results on a test model (Nike Dunk Low) usi
 
 ### Interface & Color Palettes
 The addon allows selecting reference images and palettes directly in the side panel.
-![Pink Palette Workflow](BlenderZimage2.jpg)
+![Pink Palette Workflow](images/BlenderZimage2.jpg)
 
 ### Multi-Angle & Color Consistency
 Testing different colorways and angles to ensure the ControlNet maintains the shoe's structure.
 | Variation 1 | Variation 2 |
 | :---: | :---: |
-| ![Blue Beige](BlenderZimage3.jpg) | ![Yellow Red](BlenderZimage1.jpg) |
+| ![Blue Beige](images/BlenderZimage3.jpg) | ![Yellow Red](images/BlenderZimage1.jpg) |
 
 ### Detail Retention
 Close-up test to verify texture quality and seam handling.
-![Close up details](BlenderZimage4.jpg)
+![Close up details](images/BlenderZimage4.jpg)
 
 ## 🛠️ Requirements (Planned)
 * Blender 4.x
