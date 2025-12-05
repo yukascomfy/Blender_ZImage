@@ -5,7 +5,6 @@
 
 An experimental addon developed under the **Antigravity** project. This tool connects Blender directly to a local **ComfyUI** instance in the background, enabling a native "Texture Preview" workflow within the viewport.
 
-The goal is to replicate the functionality of external AI texture workflows (like QwenEdit) but executed entirely from within Blender, allowing for rapid iteration on colors and styles without leaving the 3D environment.
 
 ## ⚠️ State of Development
 **This project is currently a Work In Progress (WIP).**
