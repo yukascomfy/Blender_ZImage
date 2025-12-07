@@ -5,6 +5,10 @@
 
 || I'm not a dev || this is a experimental addon developed under the Antigravity project. This tool connects Blender directly to a local ComfyUI instance in the background, enabling a native "Texture Preview" workflow within the viewport. 
 
+## 📺 Video Demo
+See the addon in action:
+
+[![Watch the video](https://img.youtube.com/vi/Fc7udy-0FOQ/0.jpg)](https://www.youtube.com/watch?v=Fc7udy-0FOQ)
 
 ## ⚠️ State of Development
 **This project is currently a Work In Progress (WIP). It is a spare-time experiment. that I have to adjust and refine before publishing.**
