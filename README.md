@@ -7,8 +7,8 @@
 
 
 ## ⚠️ State of Development
-**This project is currently a Work In Progress (WIP).**
-It is a spare-time experiment.
+**This project is currently a Work In Progress (WIP). It is a spare-time experiment. that I have to adjust and refine before publishing.**
+
 
 ## ✨ Key Features
 * **Native Integration:** Connects to ComfyUI via API directly from the Blender sidebar.
