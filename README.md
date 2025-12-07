@@ -8,10 +8,7 @@ An experimental addon developed under the **Antigravity** project. This tool con
 
 ## ⚠️ State of Development
 **This project is currently a Work In Progress (WIP).**
-It is a spare-time experiment. While functional, you may encounter:
-* Inconsistencies in generation.
-* Bugs and stability issues.
-* Unoptimized performance.
+It is a spare-time experiment.
 
 ## ✨ Key Features
 * **Native Integration:** Connects to ComfyUI via API directly from the Blender sidebar.
