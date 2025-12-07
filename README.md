@@ -3,7 +3,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Work_in_Progress-orange) ![License](https://img.shields.io/badge/License-GPLv3-blue) ![Blender](https://img.shields.io/badge/Blender-4.0%2B-green)
 
-An experimental addon developed under the **Antigravity** project. This tool connects Blender directly to a local **ComfyUI** instance in the background, enabling a native "Texture Preview" workflow within the viewport.
+|| I'm not a dev || this is a experimental addon developed under the Antigravity project. This tool connects Blender directly to a local ComfyUI instance in the background, enabling a native "Texture Preview" workflow within the viewport. 
 
 
 ## ⚠️ State of Development
